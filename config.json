@@ -1,0 +1,16 @@
+{
+    "Mysql_Host": "103.252.137.130",
+    "Mysql_Port": 3306,
+    "Mysql_User": "oviecloudscom_v2ray",
+    "Mysql_Password": "oviecloudscom_v2ray",
+    "Mysql_Db": "oviecloudscom_v2ray",
+    "Mysql_TLS": "false",
+    "Mysql_MaxOpenConns": 100,
+    "Mysql_MaxIdleConns": 10,
+    "V2rayClientAddr": "127.0.0.1:8301",
+    "V2rayTag": "proxy",
+    "Email": "@test.com",
+    "AlterID": 1,
+    "Level": 1,
+    "CheckRate": 64
+}
